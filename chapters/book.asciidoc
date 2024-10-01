@@ -1,45 +1,52 @@
 = 97 Things Every Agile Developer Should Know
 
-include::Beware_Of_Agile_Zealots.asciidoc[]
+include::ch01_Beware_Of_Agile_Zealots.asciidoc[]
 
-include::Dont_Write_Smart_Code.asciidoc[]
+include::ch02_Dont_Write_Smart_Code.asciidoc[]
 
-include::lifelong_learning.asciidoc[]
+include::ch03_lifelong_learning.asciidoc[]
 
-include::Create_Real_and_Lasting_Change.asciidoc[]
+include::ch04_Create_Real_and_Lasting_Change.asciidoc[]
 
-include::The_Daily_Commit.asciidoc[]
+include::ch05_The_Daily_Commit.asciidoc[]
 
-include::working_with_water_scrum_test.asciidoc[]
+include::ch06_working_with_water_scrum_test.asciidoc[]
 
-include::Dont_Get_Attached_to_Code.asciidoc[]
+include::ch07_Dont_Get_Attached_to_Code.asciidoc[]
 
-include::CI_attitude.asciidoc[]
+include::ch08_CI_attitude.asciidoc[]
 
-include::Stop_Worrying_About_Being_Agile.asciidoc[]
+include::ch09_Stop_Worrying_About_Being_Agile.asciidoc[]
 
-include::3_Steps_of_a_Change_Agent.asciidoc[]
+include::ch10_3_Steps_of_a_Change_Agent.asciidoc[]
 
-include::Plan_for_Code_Delivery_Aftershocks.asciidoc[]
+include::ch11_Plan_for_Code_Delivery_Aftershocks.asciidoc[]
 
-include::Role_Of_Visionary_On_Agile_Teams.asciidoc[]
+include::ch12_Role_Of_Visionary_On_Agile_Teams.asciidoc[]
 
-include::Is_Someone_Running_Your_Agile_Project.asciidoc[]
+include::ch13_Is_Someone_Running_Your_Agile_Project.asciidoc[]
 
-include::No_Blockers_No_Way.asciidoc[]
+include::ch14_No_Blockers_No_Way.asciidoc[]
 
-include::Its_Not_Scrum_Its_You.asciidoc[]
+include::ch15_Its_Not_Scrum_Its_You.asciidoc[]
 
-include::Balancing_Speed_and_Quality.asciidoc[]
+include::ch16_Balancing_Speed_and_Quality.asciidoc[]
 
-include::Scrummaster_as_Servant_Leader.asciidoc[]
+include::ch17_Scrummaster_as_Servant_Leader.asciidoc[]
 
-include::Tell_Your_Boss_What_Makes_You_Tick.asciidoc[]
+include::ch18_Tell_Your_Boss_What_Makes_You_Tick.asciidoc[]
 
-include::The_Cost_Of_Compliance.asciidoc[]
+include::ch19_The_Cost_Of_Compliance.asciidoc[]
 
-include::Transforming_to_a_High_Performance_Agile_Organization.asciidoc[]
+include::ch20_Transforming_to_a_High_Performance_Agile_Organization.asciidoc[]
 
-include::What_Prevents_Teams_from_Becoming_or_Stop.asciidoc[]
+include::ch21_What_Prevents_Teams_from_Becoming_or_Stop.asciidoc[]
 
-include::Egoless_Code_Reviews.asciidoc[]
+include::ch22_Egoless_Code_Reviews.asciidoc[]
+
+include::ch23_untethered_activities.asciidoc[]
+
+include::ch24_software_engineering_costs_of_quality.asciidoc[]
+
+include::ch25_Enterprise_Agile_Requires_Greater_Discipline.asciidoc[]
+
